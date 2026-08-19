@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.env.local
+backend/.venv/
+__pycache__/
+*.py[cod]
+
+.vercel
+.gstack/
+demo/
